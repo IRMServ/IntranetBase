@@ -12,7 +12,6 @@
         "zendframework/zendframework": "2.*",
         "doctrine/doctrine-module":"0.*",
         "doctrine/doctrine-orm-module":"dev-master",
-        "irmnet/base": "dev-master",
         "irmnet/auth": "dev-master"
     }
 }
