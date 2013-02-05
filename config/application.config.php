@@ -4,7 +4,7 @@ return array(
     'modules' => array(
         'Auth',
         'Base',
-        'HelpDesk',
+        'HelpDesk',         
         'DoctrineModule',
         'DoctrineORMModule',
     ),
